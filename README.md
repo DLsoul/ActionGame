@@ -6,4 +6,4 @@
 * 换装信息加载
 * 武器切换
 
-![screenshot](G:\my_home\unity_project\ActionGame\screenshot.PNG)
+![screenshot](https:\\github.com\DLsoul\ActionGame\screenshot.PNG)
